@@ -1,6 +1,5 @@
 .gitignore
 .gitlab-ci.yml
-.openapi-generator-ignore
 .travis.yml
 README.md
 docs/apis/tags/DefaultApi.md
@@ -27,6 +26,4 @@ sibyl_core_sdk/schemas.py
 test-requirements.txt
 test/__init__.py
 test/test_models/__init__.py
-test/test_models/test_error.py
-test/test_models/test_user.py
 tox.ini
